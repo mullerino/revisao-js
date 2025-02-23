@@ -11,7 +11,6 @@ diferente das demais.
 
 // Declaração de função
 function desligar() {
-  // corpo da função
 }
 
 // Expressão de função
